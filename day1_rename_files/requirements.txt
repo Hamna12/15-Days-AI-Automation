@@ -1,0 +1,15 @@
+# Core
+requests
+
+# OCR (Images)
+pytesseract
+Pillow
+
+# PDF text extraction
+pypdf
+
+# Optional (only if you later add scanned PDF OCR)
+pdf2image
+
+# Utils
+python-dotenv>=1.0.1
